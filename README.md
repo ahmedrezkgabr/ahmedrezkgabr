@@ -6,6 +6,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">About me</h2>
 
 ###
@@ -13,6 +15,8 @@
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Computer engineering at the faculty of engineering, Mansoura University.</p>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">I am doing well with</h2>
 
@@ -41,6 +45,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">Experience</h2>
 
@@ -84,6 +90,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">Projects</h2>
 
 ###
@@ -91,6 +99,8 @@
 <p align="left">browse my githup account 👉👈</p>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">Contacts information</h2>
 
