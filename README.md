@@ -122,7 +122,7 @@
   <a href="https://www.hackerrank.com/ahmedrezkoffici1?badge=cpp&stars=5&level=3&hr_r=1&social=linkedin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="42" height="30" alt="hackerrank logo"  />
   </a>
-  <a href="[+201001525033](https://wa.me/+201001525033)" target="_blank">
+  <a href="https://wa.me/+201001525033" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
   </a>
 </div>
