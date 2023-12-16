@@ -116,7 +116,7 @@
   <a href="https://www.facebook.com/AhmedRezk72" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
   </a>
-  <a href="ahmedrezkgabr0@gmail.com" target="_blank">
+  <a href="mailto:ahmedrezkgabr0@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.hackerrank.com/ahmedrezkoffici1?badge=cpp&stars=5&level=3&hr_r=1&social=linkedin" target="_blank">
