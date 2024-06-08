@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/ahmedrezkgabr)](https://twitter.com/ahmedrezkgabr)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedrezkgabr/)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white&link=https://www.leetcode.com/ahmedrezkgabr)](https://www.leetcode.com/ahmedrezkgabr)
-[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerearth.com/ahmedrezkoffici1)](https://www.hackerearth.com/ahmedrezkoffici1)
+[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/ahmedrezkoffici1)](https://www.hackerrank.com/profile/ahmedrezkoffici1)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/AhmedRezk72/)](https://www.facebook.com/AhmedRezk72/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmedrezkgabr0@gmail.com)
 [![Github](https://img.shields.io/github/followers/ahmedrezkgabr?label=Follow&style=social)](https://github.com/ahmedrezkgabr)
