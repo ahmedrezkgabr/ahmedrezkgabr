@@ -16,12 +16,12 @@
 - Currently working as a software engineer at [**drb-درب**](https://www.facebook.com/drb.technology/) (software startup).
 
 
-### 🖥 Skills
+### 🖥 Interests
 
-- Software Teaching
 - Embedded Systems
-- Linux
 - Embedded Linux
+- Software Teaching
+- DevOps
 
 ### ⚙️ Tech Stack
 
