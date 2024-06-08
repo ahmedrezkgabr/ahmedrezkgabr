@@ -1,130 +1,54 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Ahmed Rezk
 
-###
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahmedrezkgabr%2Fahmedrezkgabr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/ahmedrezkgabr)](https://twitter.com/ahmedrezkgabr)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedrezkgabr/)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white&link=https://www.leetcode.com/ahmedrezkgabr)](https://www.leetcode.com/ahmedrezkgabr)
+[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerearth.com/ahmedrezkoffici1)](https://www.hackerearth.com/ahmedrezkoffici1)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/AhmedRezk72/)](https://www.facebook.com/AhmedRezk72/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmedrezkgabr0@gmail.com)
+[![Github](https://img.shields.io/github/followers/ahmedrezkgabr?label=Follow&style=social)](https://github.com/ahmedrezkgabr)
 
-<p align="left">My name is Ahmed Rezk and I'm a Embedded System engineer , from Mansoura, Egypt</p>
+- A passionate software engineer from Egypt.
+- I’m currently working on **Truck Platooning System** as part of my graduation project, sponsored by [**Valeo**](https://www.valeo.com/).
+- Former Embedded Software Instructor at [**ITI**](https://www.iti.gov.eg/) (Information Technology Institute - Egypt).
+- Former Embedded Software Trainee at [**Siemens Digital Industries Software MENA Region**](https://www.siemens.com/global/en/home/company/regions/siemens-in-the-middle-east/mena.html).
+- Currently working as a software engineer at [**drb-درب**](https://www.facebook.com/drb.technology/) (software startup).
 
-###
 
-<br clear="both">
+### 🖥 Skills
 
-<h2 align="left">About me</h2>
+- Software Teaching
+- Embedded Systems
+- Linux
+- Embedded Linux
 
-###
+### ⚙️ Tech Stack
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Computer engineering at the faculty of engineering, Mansoura University.</p>
+![C](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=C&color=353535)
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=c-sharp&color=353535)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=c%2B%2B&color=353535)
+![Qt](https://img.shields.io/badge/-Qt-05122A?style=flat-square&logo=Qt&color=353535)
+![Yocto](https://img.shields.io/badge/-Yocto-05122A?style=flat-square&logo=Yocto&color=353535)
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat-square&logo=GNUBash&color=353535)
+![CMake](https://img.shields.io/badge/-CMake-05122A?style=flat-square&logo=CMake&color=353535)
+![make](https://img.shields.io/badge/-make-05122A?style=flat-square&logo=make&color=353535)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535)
+![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat-square&logo=Vim&color=353535)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
+![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat-square&logo=MATLAB&color=353535)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=353535)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&color=353535)
+![Embedded Linux](https://img.shields.io/badge/-Embedded%20Linux-05122A?style=flat-square&logo=Embedded-Linux&color=353535)
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat-square&logo=Arduino&color=353535)
+![STM32](https://img.shields.io/badge/-STM32-05122A?style=flat-square&logo=STMicroelectronics&color=353535)
+![AUTOSAR](https://img.shields.io/badge/-AUTOSAR-05122A?style=flat-square&logo=AUTOSAR&color=353535)
 
-###
-
-<br clear="both">
-
-<h2 align="left">I am doing well with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedrezkgabr&show_icons=true&locale=en&layout=compact" alt="ahmedrezkgabr" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedrezkgabr&" alt="ahmedrezkgabr" />
 </div>
 
-###
-
-<br clear="both">
-
-<h2 align="left">Experience</h2>
-
-###
-
-<h4 align="left">Embedded Systems Software Instructor @ Information Technology Institute (ITI)</h4>
-
-###
-
-<p align="left">Embedded systems software instructor for the basic diploma provided by ITI and IMT school.<br>This diploma consists of several courses:<br>✨ C programming language.<br>✨ MCU interfacing (AVR).<br>✨ Automotive communication protocols (CAN, LIN).<br>✨ Real-time operating systems.</p>
-
-###
-
-<br clear="both">
-
-<h4 align="left">Embedded Software Trainee @ Siemens EDA</h4>
-
-###
-
-<p align="left">✨  of the top-rated students who attended embedded linux sessions.<br>✨ In the training we got detailed experience from excellent instructors in topics like (MCUs fundamentals, Trace32 tool and debugging skills, clockwork tool, DevOps basic concepts, RTOS, AUTOSAR layers, AUTOSAR methodology, AUTOSAR CAN stack, OSEK-VDX AUTOSAR OS fundamentals, and Embedded Linux fundamentals).</p>
-
-###
-
-<br clear="both">
-
-<h4 align="left">Embedded Software Trainee @ ITI</h4>
-
-###
-
-<p align="left">✨ Embedded Systems training for students.<br>✨ C programming, MCU (architecture and interfacing), automotive communication protocols, and basic concepts of software testing.</p>
-
-###
-
-<br clear="both">
-
-<h4 align="left">Embedded Systems Trainee @ eg-FWD</h4>
-
-###
-
-<p align="left">✨ Embedded Systems training for students.<br>✨ C programming, MCU (architecture and interfacing), automotive communication protocols, and basic concepts of software testing.</p>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Projects</h2>
-
-###
-
-<p align="left">browse my githup account 👉👈</p>
-
-###
-
-<br clear="both">
-
-<h2 align="left">Contacts information</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ahmedrezkgabr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/ahmedrezkgabr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
-  </a>
-  <a href="https://www.facebook.com/AhmedRezk72" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
-  </a>
-  <a href="ahmedrezkgabr0@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/ahmedrezkoffici1?badge=cpp&stars=5&level=3&hr_r=1&social=linkedin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="42" height="30" alt="hackerrank logo"  />
-  </a>
-  <a href="https://wa.me/+201001525033" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
+---
