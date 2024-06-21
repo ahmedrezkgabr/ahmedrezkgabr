@@ -48,9 +48,11 @@
 ![MQTT](https://img.shields.io/badge/-MQTT-05122A?style=flat-square&logo=mqtt&color=353535)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=kubernetes&color=353535)
 
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedrezkgabr&show_icons=true&locale=en&layout=compact" alt="ahmedrezkgabr" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedrezkgabr&" alt="ahmedrezkgabr" />
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img style="width: 48%; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedrezkgabr&show_icons=true&locale=en&layout=compact" alt="ahmedrezkgabr" />
+  <img style="width: 48%; height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedrezkgabr" alt="ahmedrezkgabr" />
 </div>
+
+
 
 ---
