@@ -10,7 +10,7 @@
 [![Github](https://img.shields.io/github/followers/ahmedrezkgabr?label=Follow&style=social)](https://github.com/ahmedrezkgabr)
 
 - A passionate software engineer from Egypt.
-- I’m currently working on [**HarmWare**](https://github.com/HarmWare) (Truck Platooning System) as my graduation project, sponsored by [**Valeo**](https://www.valeo.com/).
+- I’m currently working on [**HarmWare**](https://github.com/HarmWare) (Vehicle Platooning System) as my graduation project, sponsored by [**Valeo**](https://www.valeo.com/).
 - Former Embedded Software Instructor at [**ITI**](https://www.iti.gov.eg/) (Information Technology Institute - Egypt).
 - Former Embedded Software Trainee at [**Siemens Digital Industries Software MENA Region**](https://www.siemens.com/global/en/home/company/regions/siemens-in-the-middle-east/mena.html).
 - Currently working as a software engineer at [**drb-درب**](https://www.facebook.com/drb.technology/) (software startup).
