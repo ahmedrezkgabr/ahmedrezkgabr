@@ -44,8 +44,6 @@ I am currently undergoing **Egypt’s compulsory military service**, while activ
 
 ## 🧰 Tech Stack
 
-### ⚙️ Embedded Systems & Low-Level Development
-
 ![C](https://img.shields.io/badge/-C-05122A?style=flat-square&logo=c&color=353535)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=c%2B%2B&color=353535)
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat-square&logo=c-sharp&color=353535)
@@ -56,9 +54,7 @@ I am currently undergoing **Egypt’s compulsory military service**, while activ
 ![Qt](https://img.shields.io/badge/-Qt-05122A?style=flat-square&logo=qt&color=353535)
 ![CMake](https://img.shields.io/badge/-CMake-05122A?style=flat-square&logo=cmake&color=353535)
 
----
 
-### 🧠 AI, Machine Learning & Data Science
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&color=353535)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=tensorflow&color=353535)
@@ -71,9 +67,7 @@ I am currently undergoing **Egypt’s compulsory military service**, while activ
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat-square&logo=opencv&color=353535)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat-square&logo=jupyter&color=353535)
 
----
 
-### 🧪 DevOps & Cloud Engineering
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker&color=353535)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=kubernetes&color=353535)
@@ -87,9 +81,7 @@ I am currently undergoing **Egypt’s compulsory military service**, while activ
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat-square&logo=grafana&color=353535)
 ![MQTT](https://img.shields.io/badge/-MQTT-05122A?style=flat-square&logo=mqtt&color=353535)
 
----
 
-### 🧰 Other Tools & Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=linux&color=353535)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git&color=353535)
