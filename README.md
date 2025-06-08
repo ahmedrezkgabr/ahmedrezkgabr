@@ -96,12 +96,3 @@ I am currently undergoing **Egypt’s compulsory military service**, while activ
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat-square&logo=elasticsearch&color=353535)
 
 ---
-
-## 📈 GitHub Stats
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img style="width: 48%; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedrezkgabr&show_icons=true&locale=en&layout=compact" alt="ahmedrezkgabr" />
-  <img style="width: 48%; height: 200px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedrezkgabr" alt="ahmedrezkgabr" />
-</div>
-
----
