@@ -1,7 +1,7 @@
 ```
 AHMED REZK GABR
 =================
-Software Engineer who loves building reliable systems that actually scale.
+Self-driven Software Engineer who quickly adapts to new challenges who can independently bootstrap himself, rapidly learn unfamiliar topics, and deliver effective results with minimal guidance.
 Currently co-founding DRB Technologies — connected vehicles, IoT, and fleet intelligence.
 ---------------
 Connect With Me
