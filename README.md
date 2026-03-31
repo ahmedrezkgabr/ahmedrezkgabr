@@ -28,6 +28,12 @@ Featured Projects
     Graduation project — Valeo mentored. Recognized for exceptional technical depth.
   ✦ Links: https://github.com/HarmWare
 
+● Rommana⁠ , End-to-End AI Assistant for Embedded Linux
+  ✦ A fully local, offline-capable AI assistant integrating LLM inference (Qwen2.5-0.5B via llama.cpp), STT
+    (whisper-cli), and TTS (piper) on embedded Linux with custom Yocto-based images for QEMU (x86-64) and Raspberry Pi 5 (aarch64)
+  ✦ Multi-layered system: vanilla JS frontend (audio capture/​playback), Express backend (API orchestration, SSE streaming)
+  ✦ Links: https://github.com/embbeded-ai-assistant
+
 ● Personalized AI Storybook Automation (Shopify)
   ✦ Fault-tolerant backend processing real-time Shopify webhooks.
     Async multi-stage pipelines with retries and idempotency. Cut fulfillment latency by ~90%.
