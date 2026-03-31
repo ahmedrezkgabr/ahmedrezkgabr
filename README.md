@@ -18,7 +18,7 @@ Skills & Tools
 » Databases:    MongoDB, PostgreSQL, MySQL, Redis
 » DevOps:       Docker, GitHub Actions, Nginx, Linux
 » ML / Data:    Python, TensorFlow, PyTorch, Scikit-learn, OpenCV, MLflow
-» Supporting:   C, Bash, Go, Java
+» Supporting:   C, Bash, Java
 -----------------
 Featured Projects
 ● Vehicle Platooning System (V2V Communication)
@@ -36,13 +36,12 @@ Featured Projects
 ● Production-Grade REST API System
   ✦ Scalable REST APIs with clean architecture, secure auth/authz, and advanced querying.
     Filtering, sorting, pagination — built for maintainability and real-world load.
-  ✦ Links: https://github.com/ahmedrezkgabr
 
 ● Customer Churn Prediction (ML Pipeline)
   ✦ End-to-end ML pipeline from raw data to deployed model.
     MLflow experiment tracking across Logistic Regression, Random Forest, and XGBoost.
     Deployed via FastAPI, fully containerized with Docker.
-  ✦ Links: https://github.com/ahmedrezkgabr
+  ✦ Links: https://github.com/ahmedrezkgabr/churn-mlops
 --------------------------
 A Few Things I'm Proud Of
 » Youngest instructor at ITI — taught 100+ students embedded systems and low-level C
