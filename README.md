@@ -4,7 +4,8 @@ AHMED REZK GABR
 Software Engineer focused on building scalable backend systems and system solutions.
 I specialize in bridging low-level systems (Embedded Linux, IoT) with high-level applications (APIs, AI systems).
 
-I specialize in quickly bootstrapping into new technologies, breaking down complex systems, and delivering production-ready solutions in a short time with minimal guidance.
+I specialize in quickly bootstrapping into new technologies, breaking down complex systems,
+and delivering production-ready solutions in a short time with minimal guidance.
 
 ---------------
 Connect With Me
