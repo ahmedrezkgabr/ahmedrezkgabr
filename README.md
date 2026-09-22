@@ -1,81 +1,50 @@
+<!-- Assets live in /assets. Edit the text below; the visuals are self-contained SVGs. -->
+
+<picture>
+  <img src="assets/banner.svg" alt="Ahmed Rezk, Software Engineer" width="100%">
+</picture>
+
+<br>
+
+<img src="assets/about.svg" alt="whoami" width="100%">
+
+```text
+$ cat about.txt
+name      Ahmed Rezk
+role      Software Engineer
+focus     <what you work on, e.g. backend systems / embedded / web>
+now       <what you're building or learning right now>
+motto     ideas -> code -> build -> repeat
 ```
-AHMED REZK GABR
-=================
-Software Engineer focused on building scalable backend systems and system solutions.
-I specialize in bridging low-level systems (Embedded Linux, IoT) with high-level applications (APIs, AI systems).
 
-I specialize in quickly bootstrapping into new technologies, breaking down complex systems,
-and delivering production-ready solutions in a short time with minimal guidance.
+<img src="assets/stack.svg" alt="tools" width="100%">
 
----------------
-Connect With Me
-» Email         → ahmedrezkgabr0@gmail.com
-» LinkedIn      → https://www.linkedin.com/in/ahmdrzk/
-» GitHub        → https://github.com/ahmedrezkgabr
-» Twitter/X     → https://twitter.com/ahmd_rzk
-» LeetCode      → https://www.leetcode.com/ahmedrezkgabr
-» HackerRank    → https://www.hackerrank.com/profile/ahmedrezkoffici1
+<p align="left">
+  <!-- Edit the list after ?i= to match your stack: https://skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nodejs,git,linux,docker,vscode&theme=dark&perline=11" alt="tech stack">
+</p>
 
---------------
-Skills & Tools
-» Systems:      Embedded Linux, Yocto, ARM, QEMU, Low-level C/C++, System Design
-» Backend:      Node.js, NestJS, Express.js, FastAPI, REST APIs, Event-Driven Systems
-» Realtime:     MQTT, WebSockets, SSE, Async Pipelines, Idempotent Processing
-» AI Systems:   LLM Inference (llama.cpp), Whisper (STT), Piper (TTS), Edge AI
-» Databases:    MongoDB, PostgreSQL, MySQL, Redis
-» DevOps:       Docker, GitHub Actions, Nginx, Linux, CI/CD
-» Performance:  Low-Latency Systems, Optimization, Resource-Constrained Environments
-» Programming:  C, C++17, Python, JavaScript, Bash, Java
-» ML / Data:    TensorFlow, PyTorch, Scikit-learn, MLflow, OpenCV
+<img src="assets/projects.svg" alt="projects" width="100%">
 
------------------
-Featured Projects
+| commit | project | what it does |
+|:--|:--|:--|
+| `a1f3c9e` | [**project-one**](https://github.com/ahmedrezkgabr/project-one) | One line on what it does and why it matters |
+| `7be204d` | [**project-two**](https://github.com/ahmedrezkgabr/project-two) | One line on what it does and why it matters |
+| `c90e1aa` | [**project-three**](https://github.com/ahmedrezkgabr/project-three) | One line on what it does and why it matters |
 
-● Vehicle Platooning System (V2V Communication)
-  ✦ Multi-vehicle platooning system built on Yocto-based Embedded Linux with CARLA simulation
-  ✦ MQTT-based V2V communication + low-latency C++17 proxy layer
-  ✦ OTA updates, full testing suite (Google Test/Mock)
-  ✦ Graduation project (Valeo mentored) — recognized for technical depth
-  ✦ Links: https://github.com/HarmWare
+<br>
 
-● Rommana — Embedded AI Assistant
-  ✦ Fully local AI assistant running on embedded Linux (offline-first)
-  ✦ LLM inference (Qwen2.5 via llama.cpp), STT (Whisper), TTS (Piper)
-  ✦ Custom Yocto builds for QEMU (x86-64) + Raspberry Pi 5 (aarch64)
-  ✦ Express backend (SSE streaming) + lightweight JS frontend
-  ✦ Links: https://github.com/embbeded-ai-assistant
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmedrezkgabr/ahmedrezkgabr/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/ahmedrezkgabr/ahmedrezkgabr/output/snake-dark.svg" alt="contribution snake" width="100%">
+</picture>
 
-● Personalized AI Storybook Automation (Shopify)
-  ✦ Event-driven backend handling real-time Shopify webhooks
-  ✦ Fault-tolerant async pipelines (retries, idempotency)
-  ✦ Reduced fulfillment latency by ~90%
-  ✦ Stack: Node.js, MongoDB, Docker, GitHub Actions, Nginx
+<img src="assets/contact.svg" alt="contact" width="100%">
 
-● Production-Grade REST API System
-  ✦ Scalable backend system with clean architecture
-  ✦ Secure authentication & authorization
-  ✦ Advanced querying (filtering, sorting, pagination)
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/linkedin-131517?style=for-the-badge&logo=linkedin&logoColor=3ecf73" alt="LinkedIn"></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/email-131517?style=for-the-badge&logo=gmail&logoColor=3ecf73" alt="Email"></a>
+  <a href="https://github.com/ahmedrezkgabr"><img src="https://img.shields.io/badge/github-131517?style=for-the-badge&logo=github&logoColor=3ecf73" alt="GitHub"></a>
+</p>
 
-● Customer Churn Prediction (ML Pipeline)
-  ✦ End-to-end ML pipeline with experiment tracking (MLflow)
-  ✦ Models: Logistic Regression, Random Forest, XGBoost
-  ✦ FastAPI deployment + Dockerized environment
-  ✦ Links: https://github.com/ahmedrezkgabr/churn-mlops
-
---------------------------
-A Few Things I'm Proud Of
-
-» Youngest instructor at ITI — taught 100+ students embedded systems & low-level C
-» Top 5% (9th / 200+) — Siemens Embedded Software Internship
-» HackerRank Gold Badges (Problem Solving, C++, C, SQL)
-» B.Sc. Computer Engineering — Mansoura University — Excellent With Honor (91.6%)
-» Received an Offer from the defense committee for sponsering the graduation project 
-» Head of Embedded Systems @ Breakin Point MU
-» Vice Head @ CAT Reloaded (2022–2024)
-
---------------------------
-Thanks for visiting.
-
-If you're working on embedded systems, backend infrastructure, or AI-powered products — let's connect.
-Let's build systems that actually ship.
-```
+<img src="assets/footer.svg" alt="solve, build, improve, repeat" width="100%">
