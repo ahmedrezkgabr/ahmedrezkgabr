@@ -10,20 +10,20 @@
 <br><br>
 <img src="https://cdn.simpleicons.org/fastapi/3ecf73" width="2.8%" alt="FastAPI"><img src="assets/sp.svg" width="2.86%" alt=""><img src="https://cdn.simpleicons.org/mqtt/3ecf73" width="2.8%" alt="MQTT"><img src="assets/sp.svg" width="2.86%" alt=""><img src="https://cdn.simpleicons.org/socketdotio/3ecf73" width="2.8%" alt="Socket.io"><img src="assets/sp.svg" width="2.86%" alt=""><img src="https://cdn.simpleicons.org/mongodb/3ecf73" width="2.8%" alt="MongoDB"><img src="assets/sp.svg" width="2.86%" alt=""><img src="https://cdn.simpleicons.org/postgresql/3ecf73" width="2.8%" alt="PostgreSQL"><img src="assets/sp.svg" width="2.86%" alt=""><img src="https://cdn.simpleicons.org/mysql/3ecf73" width="2.8%" alt="MySQL"><img src="assets/sp.svg" width="2.86%" alt=""><img src="https://cdn.simpleicons.org/redis/3ecf73" width="2.8%" alt="Redis"><img src="assets/sp.svg" width="2.86%" alt=""><img src="https://cdn.simpleicons.org/docker/3ecf73" width="2.8%" alt="Docker"><img src="assets/sp.svg" width="2.86%" alt=""><img src="https://cdn.simpleicons.org/githubactions/3ecf73" width="2.8%" alt="GitHub Actions"><img src="assets/sp.svg" width="2.86%" alt=""><img src="https://cdn.simpleicons.org/nginx/3ecf73" width="2.8%" alt="NGINX"><img src="assets/sp.svg" width="2.86%" alt=""><img src="https://cdn.simpleicons.org/git/3ecf73" width="2.8%" alt="Git"><img src="assets/sp.svg" width="2.86%" alt=""><img src="https://cdn.simpleicons.org/shopify/3ecf73" width="2.8%" alt="Shopify"><img src="assets/sp.svg" width="2.86%" alt=""><img src="https://cdn.simpleicons.org/tensorflow/3ecf73" width="2.8%" alt="TensorFlow"><img src="assets/sp.svg" width="2.86%" alt=""><img src="https://cdn.simpleicons.org/pytorch/3ecf73" width="2.8%" alt="PyTorch"><img src="assets/sp.svg" width="2.86%" alt=""><img src="https://cdn.simpleicons.org/scikitlearn/3ecf73" width="2.8%" alt="scikit-learn"><img src="assets/sp.svg" width="2.86%" alt=""><img src="https://cdn.simpleicons.org/opencv/3ecf73" width="2.8%" alt="OpenCV"><img src="assets/sp.svg" width="2.86%" alt=""><img src="https://cdn.simpleicons.org/mlflow/3ecf73" width="2.8%" alt="MLflow"><img src="assets/sp.svg" width="2.86%" alt=""><img src="https://cdn.simpleicons.org/huggingface/3ecf73" width="2.8%" alt="Hugging Face">
 </p>
-<img src="assets/projects.svg" alt="projects" width="100%">
+<!-- <img src="assets/projects.svg" alt="projects" width="100%"> -->
 
-<p>
+<!-- <p>
   <a href="https://github.com/HarmWare"><img src="assets/proj-platoon.svg" alt="platoon" width="49%"></a>
   <a href="https://github.com/embbeded-ai-assistant"><img src="assets/proj-rommana.svg" alt="rommana" width="49%"></a>
-</p>
-<p>
+</p> -->
+<!-- <p>
   <a href="https://github.com/ahmedrezkgabr"><img src="assets/proj-storybook.svg" alt="storybook" width="49%"></a>
   <a href="https://github.com/ahmedrezkgabr/churn-mlops"><img src="assets/proj-churn.svg" alt="churn" width="49%"></a>
-</p>
-<p>
+</p> -->
+<!-- <p>
   <a href="https://github.com/ahmedrezkgabr/embedded-systems-roadmap"><img src="assets/proj-roadmap.svg" alt="roadmap" width="49%"></a>
   <a href="https://github.com/ahmedrezkgabr?tab=repositories"><img src="assets/proj-more.svg" alt="more" width="49%"></a>
-</p>
+</p> -->
 
 <img src="https://raw.githubusercontent.com/ahmedrezkgabr/ahmedrezkgabr/output/snake-dark.svg" alt="contribution snake" width="100%">
 
